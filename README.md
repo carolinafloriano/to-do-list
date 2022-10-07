@@ -1,24 +1,5 @@
-# to-do-list
+# Projeto: Lista de Tarefas
+Projeto de uma Lista de Tarefas desenvolvido utilizando o framework de desenvolvimento web Vue.js. Nesse projeto você pode adicionar itens em sua lista de tarefas, marcá-los como concluídos e excluí-los quando desejado.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## GitHub Pages
+**Link:** https://carolinafloriano.github.io/to-do-list/
